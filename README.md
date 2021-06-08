@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o Henrique,(@rikenze)
-- 👀 Tenho interesses em .NET Core e Flutter.
+- 👀 Tenho interesses e experiências em .NET Core e Flutter.
 - 🌱 Estou atualmente aprendendo Flutter.
 - 💞️ Procuro atualmente colaborar em projetos de Flutter o/
 - 📫 Para me contatar, rikenze05@gmail.com
