@@ -1,6 +1,6 @@
-- 👋 Olá, sou o Henrique (@rikenze)
-- 👀 Tenho interesse e experiências em .NET Core e Cloud computing.
-- 📫 Para me contatar, rikenze05@gmail.com
+- Henrique de Vasconcelos (@rikenze)
+- Experiences in .NET Core, Cloud computing and Angular.
+- 📫 Contact: rikenze05@gmail.com
 
 <!---
 rikenze/rikenze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
